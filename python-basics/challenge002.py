@@ -1,11 +1,10 @@
-# Your friend has a YouTube channel. They asked you to figure out how well their channel is doing. Let's find their
-# best and worst videos! Tasks (3): Create a mostViewed variable, and assign the value "7 Amazing Mugs I CANNOT live
-# without" to it. Create a leastViewed variable, and assign the value "The Best Mug to Take Scuba Diving" to it. Use
-# two print statements to output these variables in the console, each on a different line. Make sure the output is
-# the following: 7 Amazing Mugs I CANNOT live without The Best Mug to Take Scuba Diving
+# Your favourite band uploaded a new video! Let's see how many people watched and commented on it. Tasks (4): Create
+# a views variable and assign the value 1145 to it. Create a comments variable and assign the value 200 to it. Use a
+# print statement to output the views variable to the console. Use a print statement to output the comments variable
+# to the console.
 
-mostViewed = "7 Amazing Mugs I CANNOT live without"
-leastViewed = "The Best Mug to Take Scuba Diving"
+views = 1145
+comments = 200
 
-print(mostViewed)
-print(leastViewed)
+print(views)
+print(comments)
